@@ -1,1 +1,1 @@
-<h2 algin="left" >This Repository contains Algorithms .</h2>
+<h2>This Repository contains Algorithms in C++ .</h2>
